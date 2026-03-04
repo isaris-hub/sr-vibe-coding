@@ -1,0 +1,20 @@
+# The idea
+I want to create a single page HTML/CSS website. The website uses free API's to retrieve information. 
+The user give the name of a city or place somewhere in the world. The website shows the weather forecast for this location.
+The location will also be displayed on a map.
+
+# Design
+The design is modern, elegant and minimalistic. The website shows nice graphs and icons as well.
+
+# Multi language
+Make the website available in Dutch and English.
+
+# Agents
+I want to use the following agents:
+1. Root agent, stored in AGENTS.md
+2. Architect/Planner, stored in .codex/agents/ARCHITECT.md
+3. UI/UX Designer, stored in .codex/agents/DESIGNER.md
+4. Frontend Engineer, stored in .codex/agents/FRONTEND.md
+5. QA / Test Engineer, stored in .codex/agents/QA.md
+6. Content & Accessibility Editor, stored in .codex/agents/ACCESSIBILITY.md
+
