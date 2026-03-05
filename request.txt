@@ -1,10 +1,13 @@
 # The idea
-I want to create a single page HTML/CSS website. The website uses free API's to retrieve information. 
-The user give the name of a city or place somewhere in the world. The website shows the weather forecast for this location.
+I want to create a single page HTML/CSS website. 
+The website uses free API's to retrieve information. 
+The user give the name of a city or place somewhere in the world. 
+The website shows the weather forecast for this location.
 The location will also be displayed on a map.
 
 # Design
-The design is modern, elegant and minimalistic. The website shows nice graphs and icons as well.
+The design is modern and minimalistic. 
+The website shows nice graphs and icons as well.
 
 # Multi language
 Make the website available in Dutch and English.
